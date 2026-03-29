@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774505836 source:c:\users\lenovo\documents\comp133\varaible_scope\main.c
+	<stdio.h>
+	<stdlib.h>
+

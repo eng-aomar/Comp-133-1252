@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774334305 source:c:\users\lenovo\documents\comp133\add_two_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

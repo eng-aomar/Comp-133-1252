@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773224818 source:c:\users\lenovo\documents\comp133\vloume\main.c
+	<stdio.h>
+	<stdlib.h>
+

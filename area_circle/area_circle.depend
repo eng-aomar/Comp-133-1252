@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773213768 source:c:\users\lenovo\documents\comp133\area_circle\main.c
+	<stdio.h>
+	<stdlib.h>
+

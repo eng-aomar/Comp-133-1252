@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774506068 source:c:\users\lenovo\documents\comp133\global_varaible\main.c
+	<stdio.h>
+	<stdlib.h>
+
