@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1775106676 source:c:\users\lenovo\documents\comp133\if_else_if_else\main.c
+	<stdio.h>
+	<stdlib.h>
+

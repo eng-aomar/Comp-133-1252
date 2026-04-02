@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1775107954 source:c:\users\lenovo\documents\comp133\conditional_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
