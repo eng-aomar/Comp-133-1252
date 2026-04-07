@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1775507120 source:c:\users\lenovo\documents\comp133\post_and_pre_increment\main.c
+	<stdio.h>
+	<stdlib.h>
+
