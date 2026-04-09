@@ -1,33 +1,37 @@
-#include <stdio.h>
+#include<stdio.h>
+void VOWEL_or_consonant(char var );
+int main()
+{
+//Write a program which takes a character as input and checks whether it is a consonant or a vowel.
 
-int main() {
-    char grade;
+    char ch;
+    printf("enter the character ");
 
-    printf("Enter your grade (A, B, C, D, F): ");
-    scanf(" %c", &grade);
+    scanf("%c",&ch);
 
-    switch(grade) {
-        case 'A':
-        case 'a':
-        case 'b':
-        case 'B':   // 'A' OR 'B'  Grade =A or grade=B
-            printf("Excellent!\n");
-            break;
+    VOWEL_or_consonant(ch);
 
-        case 'C':
-        case 'c':
-        case 'd':
-        case 'D':   // 'C' OR 'D'
-            printf("Good.\n");
-            break;
 
-        case 'F':
-            printf("Fail.\n");
-            break;
-
-        default:
-            printf("Invalid grade!\n");
+    return 0 ;
+}
+void VOWEL_or_consonant(char var )
+{
+    switch(var)
+    {
+    case 'A':
+    case'a':
+        case'E':
+            case'e':
+                case'O':
+    case'o':
+    case'U':
+    case'u':
+    case'I':
+    case'i':
+        printf("the character is vowel %c",var);
+        break ;
+    default:
+        printf("the character is consonant %c ",var);
     }
 
-    return 0;
 }

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1775711521 source:c:\users\lenovo\documents\comp133\result_controlled_loops\main.c
+	<stdio.h>
+	<stdlib.h>
+
