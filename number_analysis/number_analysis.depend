@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1776750638 source:c:\users\lenovo\documents\comp133\number_analysis\main.c
+	<stdio.h>
+	<stdlib.h>
+
