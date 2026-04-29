@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1777442645 source:c:\users\lenovo\documents\comp133\isprime\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
