@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+
+    char text[] = "C,Java,Python";
+    
+    char *token = strtok(text, ",");
+
+    while (token != NULL) {
+        printf("%s\n", token);
+        token = strtok(NULL, ",");
+    }
+
+    return 0;
+}

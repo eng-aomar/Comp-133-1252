@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+
+    char source[] = "Programming";
+    char destination[12];//No data
+    puts(source);
+    puts(destination);
+
+    strcpy(destination, source);
+
+   printf("Copied String: %s\n", destination);
+   int size_dest= strlen(destination);
+   int size =sizeof(destination)/sizeof(destination[0]);
+   printf("Dize strlen: %d\n", size_dest); // Actual size
+   printf("Dize: sizeof%d\n", size);
+    return 0;
+}
