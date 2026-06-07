@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1780842494 source:c:\users\lenovo\desktop\comp133\substring_using_strncpy\main.c
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
