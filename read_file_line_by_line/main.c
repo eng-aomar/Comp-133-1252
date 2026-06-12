@@ -28,7 +28,8 @@ int main() {
         if (line[strlen(line) - 1] == '\n')
             line[strlen(line) - 1] = '\0';
 
-        fprintf(outp, "%3d>> %s\n\n", ++i, line);
+        //fprintf(outp, "%3d>> %s\n\n", ++i, line);
+        fprintf(outp,  line);
     }
 
     fclose(inp);
